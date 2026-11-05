@@ -1,0 +1,1 @@
+window.SK_META = {"name": "toefl-paraphrase", "title": "Paraphrase Trainer", "exam": "TOEFL", "area": "TOEFL Speaking and Writing", "desc": "Pick the best paraphrase of a sentence, then write your own and check its overlap with the original.", "content": ["paraphrase.json"], "n": 83};
